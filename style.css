@@ -126,14 +126,12 @@
 
 .main-content-one{
     background-color: rgba(14,14,14,1);
-    /* position:absolute;
-    top:93vh;
-    width:100%; */
+   
     
 }
 
 .headings{
-    margin:10px 20px 10px 30px;
+    padding:10px 20px 10px 30px;
     font-size: 20px;
     font-weight: 700;
 }
@@ -192,7 +190,9 @@ footer{
     color: rgb(252, 225, 176);
 }
 
-
+.Search_icon {
+    cursor:pointer;
+}
 
 
 
